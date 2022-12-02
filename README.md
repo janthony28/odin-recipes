@@ -1,2 +1,4 @@
 # odin-recipes
-first project
+HTML Basics (Links, Images, Headers, etc.)
+
+
